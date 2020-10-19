@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Misak\Desktop\Programming\Practice\25\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(101,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Misak\Desktop\Programming\Practice\25\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(109,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Misak\Desktop\Programming\Practice\25\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91): warning C4717: BozoSort: рекурсия на всех путях выполнения, функция вызовет переполнение стека
+  ConsoleApplication1.vcxproj -> C:\Users\Misak\Desktop\Programming\Practice\25\C++\ConsoleApplication1\Debug\ConsoleApplication1.exe

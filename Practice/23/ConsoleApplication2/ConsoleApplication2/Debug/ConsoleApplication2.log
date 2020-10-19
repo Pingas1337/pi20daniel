@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\Misak\Desktop\Programming\Practice\23\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(14,18): warning C4305: инициализация: усечение из "double" в "float"
+  Fac.cpp
+  Создание кода...
+  ConsoleApplication2.vcxproj -> C:\Users\Misak\Desktop\Programming\Practice\23\ConsoleApplication2\Debug\ConsoleApplication2.exe
