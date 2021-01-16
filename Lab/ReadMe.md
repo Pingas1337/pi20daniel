@@ -47,8 +47,8 @@
 </p>
 <p>
 	Исходный код сервера:
-	<code>
-		#include <iostream>
+```cpp
+#include <iostream>
 #include <fstream>
 #include <string>
 #include "cpp_httplib/httplib.h"
@@ -160,11 +160,12 @@ int main() {
 	svr.Get("/raw", get_response_raw);
 	svr.listen("localhost", 2020);
 }
-	</code>
+}
+```
 </p>
 <p>
 	Код клиента:</p>
-	```python
+```python
 	from tkinter import *
 	import json
 	import requests
@@ -207,7 +208,7 @@ int main() {
 
 	reload_data()
 	root.mainloop()
-	```
+```	
 
 <p>
 	скриншот клиента
@@ -218,3 +219,7 @@ int main() {
 	скриншот сервера
 </p>
 <img src="https://sun9-5.userapi.com/impg/2gWEbG5ue3jJLxDU4PKWKjnddNN21atjG2ODOg/PqfQad8NddI.jpg?size=445x183&quality=96&proxy=1&sign=12e7a35a5119746304018174e991a0de"><br/>Рис 2 скриншот работы сервера
+## Вывод по работе. 
+Цель работы была успешно достигнута. Было выполнено:
+- Создание сервера на языке С++, обращающегося к openweathermap.com и возвращающий виджет или описание и температуру в формате json
+- Приложение с графическим интерфейсом, написанное на языке Python с использованием библиотеки Tkinter, получающее и обрабатывающее данные из сервера.
