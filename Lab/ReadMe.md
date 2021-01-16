@@ -47,7 +47,7 @@
 </p>
 <p>
 	Исходный код сервера:
-```cpp
+<code>
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -208,7 +208,7 @@ int main() {
 
 	reload_data()
 	root.mainloop()
-```	
+</code>	
 
 <p>
 	скриншот клиента
