@@ -1,3 +1,0 @@
-﻿  ConsoleApplication1.cpp
-C:\Users\Misak\Desktop\Programming\Practice\26\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(119,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\Misak\Desktop\Programming\Practice\26\C++\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(125,2): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
